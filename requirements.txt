@@ -1,0 +1,5 @@
+playsound==1.2.2
+selenium
+undetected_chromedriver
+pywinauto
+pillow
